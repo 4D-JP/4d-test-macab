@@ -1,0 +1,68 @@
+{
+	"Sources/Classes/Environment.4dm": {
+		"left": 272,
+		"top": 193,
+		"width": 1070,
+		"height": 475
+	},
+	"Sources/Forms/TEST/method.4dm": {
+		"left": 165,
+		"top": 174,
+		"width": 1259,
+		"height": 474
+	},
+	"Sources/DatabaseMethods/onStartup.4dm": {
+		"left": 136,
+		"top": 197,
+		"width": 1070,
+		"height": 475
+	},
+	"Sources/Methods/run.4dm": {
+		"left": 136,
+		"top": 197,
+		"width": 1070,
+		"height": 475
+	},
+	"Sources/Methods/CREATE_RECORDS.4dm": {
+		"left": 165,
+		"top": 174,
+		"width": 1259,
+		"height": 474
+	},
+	"Sources/Methods/encode_uri.4dm": {
+		"left": 202,
+		"top": 149,
+		"width": 1070,
+		"height": 475
+	},
+	"Sources/Forms/TEST/ObjectMethods/Button.4dm": {
+		"left": 58,
+		"top": 269,
+		"width": 1259,
+		"height": 474
+	},
+	"Sources/Forms/TEST/ObjectMethods/books.4dm": {
+		"left": 58,
+		"top": 269,
+		"width": 1259,
+		"height": 474
+	},
+	"Trash/Methods/(TEST).4dm": {
+		"left": 264,
+		"top": 292,
+		"width": 1070,
+		"height": 475
+	},
+	"Sources/Forms/TEST/ObjectMethods/Input.4dm": {
+		"left": 139,
+		"top": 149,
+		"width": 1259,
+		"height": 633
+	},
+	"Sources/Classes/TEST.4dm": {
+		"left": 157,
+		"top": 621,
+		"width": 1259,
+		"height": 661
+	}
+}

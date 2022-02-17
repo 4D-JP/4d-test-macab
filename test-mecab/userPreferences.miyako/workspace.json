@@ -1,0 +1,35 @@
+{
+	"editors": [
+		{
+			"type": "method",
+			"id": 2147483644,
+			"previousTabType": "method",
+			"previousTabID": 2147483630,
+			"codeDescriptor": {
+				"type": 11,
+				"className": "TEST",
+				"methodPath": "/SOURCES/Classes/TEST.4dm"
+			}
+		},
+		{
+			"type": "method",
+			"id": 2147483630,
+			"previousTabType": "form",
+			"previousTabID": 218,
+			"codeDescriptor": {
+				"type": 2,
+				"formName": "TEST",
+				"objectName": "Input",
+				"methodPath": "/SOURCES/Forms/TEST/ObjectMethods/Input.4dm"
+			}
+		},
+		{
+			"type": "form",
+			"id": 218,
+			"formName": "TEST"
+		},
+		{
+			"type": "explorer"
+		}
+	]
+}

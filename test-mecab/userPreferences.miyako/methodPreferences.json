@@ -1,0 +1,92 @@
+{
+	"Sources/Classes/Environment.4dm": {
+		"startSelection": 19,
+		"endSelection": 19,
+		"firstSelectedLine": 18,
+		"lastSelectedLine": 18,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-02-17T04:18:42.470Z"
+	},
+	"Sources/Forms/TEST/method.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 6,
+		"lastSelectedLine": 6,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-02-17T05:08:40.456Z"
+	},
+	"Sources/DatabaseMethods/onStartup.4dm": {
+		"startSelection": 3,
+		"endSelection": 3,
+		"firstSelectedLine": 0,
+		"lastSelectedLine": 0,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-02-17T04:20:03.305Z"
+	},
+	"Sources/Methods/run.4dm": {
+		"startSelection": 7,
+		"endSelection": 7,
+		"firstSelectedLine": 9,
+		"lastSelectedLine": 9,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-02-17T04:21:52.437Z"
+	},
+	"Sources/Methods/CREATE_RECORDS.4dm": {
+		"startSelection": 0,
+		"endSelection": 0,
+		"firstSelectedLine": 20,
+		"lastSelectedLine": 20,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-02-17T05:04:52.328Z"
+	},
+	"Sources/Methods/encode_uri.4dm": {
+		"startSelection": 21,
+		"endSelection": 9,
+		"firstSelectedLine": 106,
+		"lastSelectedLine": 106,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-02-17T04:26:23.427Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/Button.4dm": {
+		"startSelection": 23,
+		"endSelection": 0,
+		"firstSelectedLine": 2,
+		"lastSelectedLine": 2,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-02-17T05:10:47.869Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/books.4dm": {
+		"startSelection": 9,
+		"endSelection": 9,
+		"firstSelectedLine": 19,
+		"lastSelectedLine": 19,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-02-17T05:10:42.629Z"
+	},
+	"Sources/Forms/TEST/ObjectMethods/Input.4dm": {
+		"startSelection": 19,
+		"endSelection": 19,
+		"firstSelectedLine": 19,
+		"lastSelectedLine": 19,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-02-17T05:34:19.753Z"
+	},
+	"Sources/Classes/TEST.4dm": {
+		"startSelection": 10,
+		"endSelection": 10,
+		"firstSelectedLine": 36,
+		"lastSelectedLine": 36,
+		"folding": [],
+		"bookmarks": [],
+		"stamp": "2022-02-17T05:31:26.703Z"
+	}
+}

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE base SYSTEM "http://www.4d.com/dtd/2007/base.dtd" >
+<base name="test-mecab" uuid="0DD785C9020446BDA18A81D7F969E3B1" collation_locale="ja">
+	<schema name="DEFAULT_SCHEMA"/>
+	<table name="Book" uuid="C761A28F2F11428193A0A6B10DC8C2F2" id="1">
+		<field name="ID" uuid="D6C17E9A5B8A4CF39B09B876FC190E9A" type="4" unique="true" autosequence="true" not_null="true" id="1"/>
+		<field name="title" uuid="A7F42B53E8E34580AD6354FFDC22FBF9" type="10" never_null="true" id="2"/>
+		<field name="description" uuid="32FBE18E46F2402D8031B8F7102E10C5" type="10" never_null="true" id="3"/>
+		<field name="textSnippet" uuid="59D432B2F74D4E29A8B622DD8763810D" type="10" never_null="true" id="5"/>
+		<primary_key field_name="ID" field_uuid="D6C17E9A5B8A4CF39B09B876FC190E9A"/>
+		<table_extra>
+			<editor_table_info displayable_fields_count="6">
+				<color red="255" green="255" blue="255" alpha="0"/>
+				<coordinates left="175.58203125" top="204.734375" width="120" height="167.33203125"/>
+			</editor_table_info>
+		</table_extra>
+	</table>
+	<index kind="keywords" uuid="76AE697BA8874E43B01825CE79473112" type="3">
+		<field_ref uuid="59D432B2F74D4E29A8B622DD8763810D" name="textSnippet">
+			<table_ref uuid="C761A28F2F11428193A0A6B10DC8C2F2" name="Book"/>
+		</field_ref>
+	</index>
+	<index kind="keywords" uuid="790CAF599FD5484D949B6C2D2A7AEB12" type="3">
+		<field_ref uuid="A7F42B53E8E34580AD6354FFDC22FBF9" name="title">
+			<table_ref uuid="C761A28F2F11428193A0A6B10DC8C2F2" name="Book"/>
+		</field_ref>
+	</index>
+	<index kind="keywords" uuid="C54DF369EB2E4099B45F51FCCEBA99B9" type="3">
+		<field_ref uuid="32FBE18E46F2402D8031B8F7102E10C5" name="description">
+			<table_ref uuid="C761A28F2F11428193A0A6B10DC8C2F2" name="Book"/>
+		</field_ref>
+	</index>
+	<index kind="regular" unique_keys="true" uuid="F417D017FE2B455B94E751EB4E1FA097" type="7">
+		<field_ref uuid="D6C17E9A5B8A4CF39B09B876FC190E9A" name="ID">
+			<table_ref uuid="C761A28F2F11428193A0A6B10DC8C2F2" name="Book"/>
+		</field_ref>
+	</index>
+	<base_extra __stringCompHash="icu:68.1.0, alternate=search" __keywordBuildingHash="mecab:0.996;sys.dic:102;">
+		<journal_file journal_file_enabled="true"/>
+	</base_extra>
+</base>
