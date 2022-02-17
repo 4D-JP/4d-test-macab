@@ -54,7 +54,7 @@
 					"type": "listbox",
 					"left": 20,
 					"top": 97,
-					"width": 432,
+					"width": 310,
 					"height": 237,
 					"events": [
 						"onSelectionChange"
@@ -89,9 +89,9 @@
 				"Button": {
 					"type": "button",
 					"text": "reset",
-					"top": 30,
-					"left": 288,
-					"width": 106,
+					"top": 17,
+					"left": 244,
+					"width": 86,
 					"height": 22,
 					"events": [
 						"onClick"
@@ -101,10 +101,10 @@
 				},
 				"description": {
 					"type": "listbox",
-					"left": 460,
-					"top": 17,
+					"left": 520,
+					"top": 37,
 					"width": 165,
-					"height": 317,
+					"height": 297,
 					"events": [],
 					"sortable": false,
 					"movableRows": false,
@@ -135,10 +135,10 @@
 				},
 				"textSnippet": {
 					"type": "listbox",
-					"left": 640,
-					"top": 17,
+					"left": 700,
+					"top": 37,
 					"width": 165,
-					"height": 317,
+					"height": 297,
 					"events": [],
 					"sortable": false,
 					"movableRows": false,
@@ -169,10 +169,10 @@
 				},
 				"title": {
 					"type": "listbox",
-					"left": 820,
-					"top": 17,
+					"left": 880,
+					"top": 37,
 					"width": 165,
-					"height": 317,
+					"height": 297,
 					"events": [],
 					"sortable": false,
 					"movableRows": false,
@@ -205,7 +205,7 @@
 					"type": "input",
 					"left": 20,
 					"top": 73,
-					"width": 432,
+					"width": 310,
 					"height": 17,
 					"dataSource": "Form:C1466.q",
 					"sizingX": "grow",
@@ -214,11 +214,71 @@
 						"onAfterEdit"
 					],
 					"method": "ObjectMethods/Input.4dm"
+				},
+				"keywords": {
+					"type": "listbox",
+					"left": 340,
+					"top": 37,
+					"width": 165,
+					"height": 297,
+					"events": [],
+					"sortable": false,
+					"movableRows": false,
+					"resizingMode": "legacy",
+					"listboxType": "collection",
+					"dataSource": "Form:C1466.keywords",
+					"currentItemSource": "",
+					"currentItemPositionSource": "",
+					"selectedItemsSource": "",
+					"sizingX": "move",
+					"sizingY": "grow",
+					"columns": [
+						{
+							"header": {
+								"text": "keywords",
+								"name": "Header3"
+							},
+							"name": "Column3",
+							"footer": {
+								"name": "Footer3"
+							},
+							"dataSource": "This:C1470.value",
+							"resizable": false,
+							"enterable": false,
+							"truncateMode": "none"
+						}
+					]
+				},
+				"Text": {
+					"type": "text",
+					"text": "local",
+					"top": 12,
+					"left": 340,
+					"width": 165,
+					"height": 16,
+					"sizingX": "move",
+					"textAlign": "center",
+					"fill": "#0000cd",
+					"fontWeight": "bold",
+					"stroke": "#FFFFFF"
+				},
+				"Text1": {
+					"type": "text",
+					"text": "remote",
+					"top": 12,
+					"left": 520,
+					"width": 525,
+					"height": 16,
+					"sizingX": "move",
+					"textAlign": "center",
+					"fill": "#800000",
+					"fontWeight": "bold",
+					"stroke": "#FFFFFF"
 				}
 			}
 		}
 	],
-	"geometryStamp": 103,
+	"geometryStamp": 165,
 	"menuBar": "Barre #1",
 	"method": "method.4dm",
 	"editor": {

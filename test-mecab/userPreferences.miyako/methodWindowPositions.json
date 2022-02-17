@@ -6,10 +6,10 @@
 		"height": 475
 	},
 	"Sources/Forms/TEST/method.4dm": {
-		"left": 165,
-		"top": 174,
-		"width": 1259,
-		"height": 474
+		"left": 259,
+		"top": 330,
+		"width": 922,
+		"height": 752
 	},
 	"Sources/DatabaseMethods/onStartup.4dm": {
 		"left": 136,
@@ -54,15 +54,21 @@
 		"height": 475
 	},
 	"Sources/Forms/TEST/ObjectMethods/Input.4dm": {
-		"left": 139,
-		"top": 149,
-		"width": 1259,
-		"height": 633
+		"left": 259,
+		"top": 330,
+		"width": 922,
+		"height": 752
 	},
 	"Sources/Classes/TEST.4dm": {
-		"left": 157,
-		"top": 621,
-		"width": 1259,
-		"height": 661
+		"left": 601,
+		"top": 168,
+		"width": 1016,
+		"height": 806
+	},
+	"Sources/Classes/BookSelection.4dm": {
+		"left": 904,
+		"top": 274,
+		"width": 1016,
+		"height": 806
 	}
 }

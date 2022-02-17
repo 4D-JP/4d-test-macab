@@ -11,11 +11,11 @@
 	"Sources/Forms/TEST/method.4dm": {
 		"startSelection": 0,
 		"endSelection": 0,
-		"firstSelectedLine": 6,
-		"lastSelectedLine": 6,
+		"firstSelectedLine": 8,
+		"lastSelectedLine": 8,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2022-02-17T05:08:40.456Z"
+		"stamp": "2022-02-17T07:27:17.358Z"
 	},
 	"Sources/DatabaseMethods/onStartup.4dm": {
 		"startSelection": 3,
@@ -81,12 +81,24 @@
 		"stamp": "2022-02-17T05:34:19.753Z"
 	},
 	"Sources/Classes/TEST.4dm": {
-		"startSelection": 10,
-		"endSelection": 10,
-		"firstSelectedLine": 36,
-		"lastSelectedLine": 36,
+		"startSelection": 42,
+		"endSelection": 42,
+		"firstSelectedLine": 24,
+		"lastSelectedLine": 24,
+		"folding": [
+			0,
+			8
+		],
+		"bookmarks": [],
+		"stamp": "2022-02-17T07:34:09.606Z"
+	},
+	"Sources/Classes/BookSelection.4dm": {
+		"startSelection": 78,
+		"endSelection": 78,
+		"firstSelectedLine": 4,
+		"lastSelectedLine": 4,
 		"folding": [],
 		"bookmarks": [],
-		"stamp": "2022-02-17T05:31:26.703Z"
+		"stamp": "2022-02-17T07:34:28.430Z"
 	}
 }
