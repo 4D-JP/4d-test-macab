@@ -6,4 +6,4 @@
 * サンプルデータ: 9,239 件
 * キーワードインデックスフィールド: 3個
 
-<img width="1005" alt="ss" src="https://user-images.githubusercontent.com/1725068/154412193-f01c83b0-7311-4edb-aceb-86d4f5063026.png">
+<img width="1065" alt="s" src="https://user-images.githubusercontent.com/1725068/154427448-d6ea613f-7300-4890-94f0-df26b4d945d6.png">
