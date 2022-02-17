@@ -1,2 +1,2 @@
-# 4d-test-macab
+# 4d-test-mecab
 めかぶを取り除くと何か起きるのか
